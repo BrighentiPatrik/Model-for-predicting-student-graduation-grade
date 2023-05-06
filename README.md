@@ -9,6 +9,7 @@ Machine Learning Model to predict student graduation grade based on differents f
 
 ## Results
 <img src="/Documentation/Grafici/Risultato.PNG">
+
 ## Documentation
 Please consult this [report](/Documentation/ReportPatrikBrighenti.pdf) and the [documentation](/Documentation) to have more informations about implementative details and usage
 
